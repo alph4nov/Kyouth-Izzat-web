@@ -39,7 +39,7 @@ const modules: Module[] = [
       "Aligning on objectives and expectation for the program",
     ],
     deepContent:
-      "The orientation session grounded us in Khazanah Nasional's mission as Malaysia's strategic investment arm and how the K-Youth Nurture programme serves as a talent pipeline for future leaders. Facilitated by Aisling, the session combined icebreakers, group discussions, and a deep-dive into what 'value creation' means at the institutional level. I left with a clearer sense of purpose — not just learning skills, but developing the mindset of someone who creates impact at scale.",
+      "The orientation session begin with the powerful message 'Leap of Faith' to urge us to be brave making the first move. It does not only a motivation, but a call to push ourselves reaching the goals and objectives we have been scared to take. The orientation very much a spirit burner to keep ourself commit throughout the program and in our future journey ",
     gallery: [
       {
         src: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=900&h=600&fit=crop&auto=format",
@@ -61,19 +61,20 @@ const modules: Module[] = [
   {
     id: 2,
     title: "Scenario 1",
-    subtitle: "Executive Role",
+    subtitle: "Executive Role | Rotation ",
     icon: "🎯",
     color: "from-[#05513D] to-[#037a5c]",
     tag: "Week 1",
     description:
-      "Stepped into the shoes of a C-suite executive, navigating strategic decisions, stakeholder management, and boardroom-level communication under realistic business scenarios.",
+      "Stepped into the executive roles that undergo rotation program, navigating around stakeholders from new hires, marketing team, and business of IHH Healthcare",
     takeaways: [
-      "Practised top-down strategic thinking and scenario planning",
-      "Developed concise executive communication for diverse audiences",
-      "Learned to balance short-term pressures with long-term value creation",
+      "Practised effective problem identification method",
+      "Understanding the key elements of effective communication",
+      "Creating a basic formatted Word document",
+      "Leveraging GenAI in workplace",
     ],
     deepContent:
-      "In this scenario, I was tasked with steering a mid-cap portfolio company through a restructuring challenge. The exercise demanded I synthesise financial data, assess risk appetite, and present a coherent strategy to a simulated board. What stood out was how much ambiguity exists at the executive level — the 'right' answer is rarely obvious, and leadership is often about building confidence in a direction rather than finding certainty. I sharpened my ability to tell a story with numbers and communicate trade-offs without losing the room.",
+      "In this scenario, I was tasked to be an executive on rotational program that works together with other teams from various department. I have been able to use SCQ method to identify problems, understanding key elements of effective communication, and also works on materials like memo, email, as well as illustrative onboarding video.",
     gallery: [
       {
         src: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=900&h=600&fit=crop&auto=format",
@@ -102,12 +103,12 @@ const modules: Module[] = [
     description:
       "Explored client-facing dynamics by managing complex stakeholder relationships, navigating expectations, and delivering value-driven solutions in a high-trust environment.",
     takeaways: [
-      "Mastered active listening and needs-discovery techniques",
-      "Learned to manage tension between client expectations and internal constraints",
-      "Developed persuasion frameworks rooted in empathy, not pressure",
+      "Able to solve problems critically by using Converge matrix",
+      "Learned to design and tailor effective written and spoken communications",
+      "Practice to maintain composure and handle difficult situation",
     ],
     deepContent:
-      "This scenario placed me in a relationship management context, responsible for retaining a strategically important client whose expectations were misaligned with deliverables. The simulation required real-time negotiation, emotional intelligence, and the ability to reframe value propositions on the fly. I found this module the most personally challenging — it exposed gaps in my listening habits and pushed me to slow down, ask better questions, and lead with curiosity before solutions. These are skills I will carry directly into my career.",
+      "This scenario placed me in a relationship management context, responsible for handling important client whose looking to bought his first home throughout our product. The simulation required real-time negotiation, emotional intelligence, and the ability to reframe value propositions on the fly. I found this module the most personally challenging ; it exposed gaps in my listening habits and pushed me to slow down, ask better questions, and lead with curiosity before solutions. These are skills I will carry directly into my career.",
     gallery: [
       {
         src: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=900&h=600&fit=crop&auto=format",
@@ -136,12 +137,13 @@ const modules: Module[] = [
     description:
       "Applied structured analytical thinking to real-world datasets, translating raw information into actionable insights that drive investment and operational decisions.",
     takeaways: [
-      "Built proficiency in structuring data narratives for non-technical audiences",
-      "Applied frameworks for identifying signal vs. noise in complex datasets",
-      "Practised translating analysis into investment-grade recommendations",
+      "Practised technical skills using spreadsheets",
+      "Applied the communication techniques learnt to deliver information effectively",
+      "Learn how to turn data into useful information",
+      "The ability to work together as team to accomplish the task successfully",
     ],
     deepContent:
-      "In the data analyst scenario, I worked with a synthetic dataset representing a portfolio company's operational and financial metrics. The challenge was not the analysis itself — it was communication. A technically correct model means nothing if the audience cannot act on it. I worked on visualising insights cleanly, anticipating stakeholder questions, and structuring recommendations with clear assumptions and caveats. This module reinforced that data literacy is about judgement, not just computation.",
+      "In the data analyst scenario, I worked with a synthetic dataset representing a portfolio company's operational and financial metrics of an e-hailing company. It was also a training ground to polish the technical skills working around with spreadsheets. The challenge was not only the analysis itself but also effective communication. This module reinforced that data literacy is about judgement, not just computation.",
     gallery: [
       {
         src: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&h=600&fit=crop&auto=format",
@@ -168,14 +170,15 @@ const modules: Module[] = [
     color: "from-[#05513D] to-[#8FFE09]",
     tag: "Week 3-4",
     description:
-      "Prepared a case study report on previous Final Year Project by implementing methods and techniques gain throughout the K-Youth program. A presentation session also test the effective communication skills gained.",
+      "Prepared a case study report on previous Final Year Project by implementing methods and techniques gain throughout the K-Youth program.",
     takeaways: [
-      "Connected academic research to real-world industry applications",
-      "Distilled complex findings into a compelling, board-ready narrative",
-      "Received structured feedback from experienced industry practitioners",
+      "Applied the problem-solving, analytical, and communication techniques learnt throughout the program",
+      "Translating the previous academic thesis of final year project, into more concise case study report",
+      "Effectively prepared a presentation to deliver the findings",
+      "Updates and finalizing the personal digital portfolio",
     ],
     deepContent:
-      "The capstone was the most meaningful moment of the programme. I adapted my Final Year Project — research I had invested months into — and reframed it as a business case for an investment audience. This required me to translate academic rigour into commercial relevance: what is the market opportunity, what risk does this address, and what return could it generate? Presenting to a panel that included Khazanah-aligned evaluators was both nerve-wracking and galvanising. The feedback was precise and actionable. I walked away understanding what it means to own a narrative, not just present data.",
+      "The capstone was the last big task of the programme. It requires the application of technique and methods learnt within previous scenario like 5 Whys, Option Assessment Matrix and analytical thinking into a case study report to present the project in another way of delivery, not only academic writing, but as a deliverables to a Head of Department. It trained me to identify and apply everything I learnt that also prepares me to face similar situation again in workplace.",
     gallery: [
       {
         src: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&h=600&fit=crop&auto=format",
@@ -200,7 +203,7 @@ const insights = [
   {
     icon: "💡",
     title: "Industry Readiness is Built, Not Assumed",
-    body: "I entered K-Youth Nurture confident in my academic foundation. I left understanding that professional readiness is a separate muscle — one that requires deliberate practice, feedback loops, and a willingness to be uncomfortable.",
+    body: "I entered K-Youth Nurture confident in my academic foundation. I left understanding that professional readiness is a separate muscle ; one that requires deliberate practice, feedback loops, and a willingness to be uncomfortable.",
   },
   {
     icon: "🔄",
@@ -215,7 +218,7 @@ const insights = [
   {
     icon: "🤝",
     title: "Community Accelerates Learning",
-    body: "My cohort peers — all UiTM students from different faculties — became mirrors and sounding boards. Hearing how someone from an engineering background approached a business problem opened entirely new mental models for me.",
+    body: "My cohort peers ; all UiTM students from different faculties ; became mirrors and sounding boards. Hearing how someone from an engineering background approached a business problem opened entirely new mental models for me.",
   },
   {
     icon: "🎯",
@@ -601,7 +604,7 @@ function Hero() {
 
           <p className="fade-up fade-up-3 text-lg text-[var(--muted-foreground)] leading-relaxed max-w-md mb-8">
             A four-week intensive journey through executive strategy, client
-            relationships, and data analytics — shaped by{" "}
+            relationships, and data analytics ; shaped by{" "}
             <strong className="text-[var(--foreground)]">
               Khazanah Nasional
             </strong>{" "}
@@ -694,7 +697,7 @@ function Overview() {
       icon: "🎓",
       label: "Participants",
       value: "UiTM Students",
-      desc: "Cohort 1 — selected undergraduates",
+      desc: "Cohort 1 ; selected undergraduates",
     },
     {
       icon: "📅",
@@ -879,7 +882,7 @@ function Journey() {
             <span className="gradient-text">One Transformation.</span>
           </h2>
           <p className="mt-4 text-[var(--muted-foreground)] max-w-xl leading-relaxed">
-            Each module placed me inside a different professional role —
+            Each module placed me inside a different professional role ;
             building empathy, capability, and confidence from the inside out.
             Click any card to read my personal reflections.
           </p>
@@ -992,7 +995,7 @@ function Connect() {
             something together?
           </h2>
           <p className="text-slate-400 leading-relaxed">
-            I'm a final-year UiTM student with a sharpened professional edge —
+            I'm a final-year UiTM student with a sharpened professional edge ;
             curious, driven, and eager to contribute to meaningful work. Let's
             start a conversation.
           </p>
