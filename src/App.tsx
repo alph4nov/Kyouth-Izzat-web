@@ -42,19 +42,19 @@ const modules: Module[] = [
       "The orientation session begin with the powerful message 'Leap of Faith' to urge us to be brave making the first move. It does not only a motivation, but a call to push ourselves reaching the goals and objectives we have been scared to take. The orientation very much a spirit burner to keep ourself commit throughout the program and in our future journey ",
     gallery: [
       {
-        src: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=900&h=600&fit=crop&auto=format",
-        thumb: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=280&h=180&fit=crop&auto=format",
-        alt: "Cohort group icebreaker session",
+        src: "/images/orientation.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/orientation.png?w=280&h=180&fit=crop&auto=format",
+        alt: "Session brief",
       },
       {
-        src: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=900&h=600&fit=crop&auto=format",
-        thumb: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=280&h=180&fit=crop&auto=format",
-        alt: "Welcome presentation and programme overview",
+        src: "/images/ENFJ_poster.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/ENFJ_poster.png?w=280&h=180&fit=crop&auto=format",
+        alt: "MBTI personality test",
       },
       {
-        src: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=900&h=600&fit=crop&auto=format",
-        thumb: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=280&h=180&fit=crop&auto=format",
-        alt: "Team collaboration activity",
+        src: "/images/ENFJ_graphic.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/ENFJ_graphic.png?w=280&h=180&fit=crop&auto=format",
+        alt: "MBTI personality test",
       },
     ],
   },
@@ -77,19 +77,24 @@ const modules: Module[] = [
       "In this scenario, I was tasked to be an executive on rotational program that works together with other teams from various department. I have been able to use SCQ method to identify problems, understanding key elements of effective communication, and also works on materials like memo, email, as well as illustrative onboarding video.",
     gallery: [
       {
-        src: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=900&h=600&fit=crop&auto=format",
-        thumb: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=280&h=180&fit=crop&auto=format",
-        alt: "Boardroom simulation setup",
+        src: "/images/S1-pitch.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/S1-pitch.png?w=280&h=180&fit=crop&auto=format",
+        alt: "Scenario 1 elevator pitch",
       },
       {
-        src: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&h=600&fit=crop&auto=format",
-        thumb: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=280&h=180&fit=crop&auto=format",
-        alt: "Strategic planning whiteboard session",
+        src: "/images/S1_career_plan.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/S1_career_plan.png?w=280&h=180&fit=crop&auto=format",
+        alt: "Career plan poster",
       },
       {
-        src: "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=900&h=600&fit=crop&auto=format",
-        thumb: "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=280&h=180&fit=crop&auto=format",
-        alt: "Executive presentation practice",
+        src: "/images/S1_poster.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/S1_poster.png?w=280&h=180&fit=crop&auto=format",
+        alt: "AI Generated poster for health campaign",
+      },
+      {
+        src: "/images/S1-memo.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/S1-memo.png?w=280&h=180&fit=crop&auto=format",
+        alt: "Prepared memo for marketing team about company sustainability effort",
       },
     ],
   },
@@ -111,19 +116,24 @@ const modules: Module[] = [
       "This scenario placed me in a relationship management context, responsible for handling important client whose looking to bought his first home throughout our product. The simulation required real-time negotiation, emotional intelligence, and the ability to reframe value propositions on the fly. I found this module the most personally challenging ; it exposed gaps in my listening habits and pushed me to slow down, ask better questions, and lead with curiosity before solutions. These are skills I will carry directly into my career.",
     gallery: [
       {
-        src: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=900&h=600&fit=crop&auto=format",
-        thumb: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=280&h=180&fit=crop&auto=format",
-        alt: "Client meeting simulation",
+        src: "/images/S2-pitch.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/S2-pitch.png?w=280&h=180&fit=crop&auto=format",
+        alt: "Scenario 2 elevator pitch",
       },
       {
-        src: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=900&h=600&fit=crop&auto=format",
-        thumb: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=280&h=180&fit=crop&auto=format",
-        alt: "Stakeholder mapping exercise",
+        src: "/images/S2-brochure.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/S2-brochure.png?w=280&h=180&fit=crop&auto=format",
+        alt: "Create product brochures",
       },
       {
-        src: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=900&h=600&fit=crop&auto=format",
-        thumb: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=280&h=180&fit=crop&auto=format",
-        alt: "Negotiation role-play session",
+        src: "/images/S2 matrix.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/S2 matrix.png?w=280&h=180&fit=crop&auto=format",
+        alt: "Create Customer profile",
+      },
+      {
+        src: "/images/S2 matrix2.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/S2 matrix2.png?w=280&h=180&fit=crop&auto=format",
+        alt: "Option Assessment Matrix to choose a suitable product",
       },
     ],
   },
@@ -146,19 +156,34 @@ const modules: Module[] = [
       "In the data analyst scenario, I worked with a synthetic dataset representing a portfolio company's operational and financial metrics of an e-hailing company. It was also a training ground to polish the technical skills working around with spreadsheets. The challenge was not only the analysis itself but also effective communication. This module reinforced that data literacy is about judgement, not just computation.",
     gallery: [
       {
-        src: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&h=600&fit=crop&auto=format",
-        thumb: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=280&h=180&fit=crop&auto=format",
-        alt: "Data dashboard and visualization example",
+        src: "/images/S3-pitch.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/S3-pitch.png?w=280&h=180&fit=crop&auto=format",
+        alt: "Scenario 3 elevator pitch",
       },
       {
-        src: "https://images.unsplash.com/photo-1543286386-713bdd548da4?w=900&h=600&fit=crop&auto=format",
-        thumb: "https://images.unsplash.com/photo-1543286386-713bdd548da4?w=280&h=180&fit=crop&auto=format",
-        alt: "Data analysis worksheet",
+        src: "/images/S3-grab1.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/S3-grab1.png?w=280&h=180&fit=crop&auto=format",
+        alt: "Data Analytics presentation",
       },
       {
-        src: "https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?w=900&h=600&fit=crop&auto=format",
-        thumb: "https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?w=280&h=180&fit=crop&auto=format",
-        alt: "Insight presentation slide",
+        src: "/images/S3-grab2.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/S3-grab2.png?w=280&h=180&fit=crop&auto=format",
+        alt: "Data Analytics presentation",
+      },
+      {
+        src: "/images/S3-grab3.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/S3-grab3.png?w=280&h=180&fit=crop&auto=format",
+        alt: "Data Analytics presentation",
+      },
+      {
+        src: "/images/S3-grab4.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/S3-grab4.png?w=280&h=180&fit=crop&auto=format",
+        alt: "Data Analytics presentation",
+      },
+      {
+        src: "/images/S3-grab5.png?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/S3-grab5.png?w=280&h=180&fit=crop&auto=format",
+        alt: "Data Analytics presentation",
       },
     ],
   },
@@ -181,19 +206,14 @@ const modules: Module[] = [
       "The capstone was the last big task of the programme. It requires the application of technique and methods learnt within previous scenario like 5 Whys, Option Assessment Matrix and analytical thinking into a case study report to present the project in another way of delivery, not only academic writing, but as a deliverables to a Head of Department. It trained me to identify and apply everything I learnt that also prepares me to face similar situation again in workplace.",
     gallery: [
       {
-        src: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&h=600&fit=crop&auto=format",
-        thumb: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=280&h=180&fit=crop&auto=format",
-        alt: "FYP project interface screenshot",
+        src: "/images/grid1.jpeg?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/grid1.jpeg?w=280&h=180&fit=crop&auto=format",
+        alt: "C1C team members",
       },
       {
-        src: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=900&h=600&fit=crop&auto=format",
-        thumb: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=280&h=180&fit=crop&auto=format",
-        alt: "Research methodology diagram",
-      },
-      {
-        src: "https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?w=900&h=600&fit=crop&auto=format",
-        thumb: "https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?w=280&h=180&fit=crop&auto=format",
-        alt: "Results visualization",
+        src: "/images/grid2.jpeg?w=900&h=600&fit=crop&auto=format",
+        thumb: "/images/grid2.jpeg?w=280&h=180&fit=crop&auto=format",
+        alt: "C1C team members",
       },
     ],
   },
@@ -203,7 +223,7 @@ const insights = [
   {
     icon: "💡",
     title: "Industry Readiness is Built, Not Assumed",
-    body: "I entered K-Youth Nurture confident in my academic foundation. I left understanding that professional readiness is a separate muscle ; one that requires deliberate practice, feedback loops, and a willingness to be uncomfortable.",
+    body: "I entered K-Youth Nurture in hope to upskill myself and build resilience and confidence to prepare myself for workplace scenario. I left out with better preparation and expectations for my upcoming career journey.",
   },
   {
     icon: "🔄",
@@ -218,12 +238,12 @@ const insights = [
   {
     icon: "🤝",
     title: "Community Accelerates Learning",
-    body: "My cohort peers ; all UiTM students from different faculties ; became mirrors and sounding boards. Hearing how someone from an engineering background approached a business problem opened entirely new mental models for me.",
+    body: "Having multiple backgrounds among peers improves learning. Hearing different views and perspective while working together towards same objectives really improves how I see things and how to work as a team.",
   },
   {
     icon: "🎯",
-    title: "Clarity of Purpose Sharpens Everything",
-    body: "Khazanah's mission of long-term national value creation gave every module a 'so what.' When you understand the stakes of the decisions you're practising, the quality of your thinking rises to meet them.",
+    title: "Clarity Sharpens Everything",
+    body: "Effective communication is one of the key of success. Design and tailor your messages accordingly, and the result will tell the difference.",
   },
 ];
 
@@ -476,7 +496,6 @@ function Header() {
     { href: "#overview", label: "Overview" },
     { href: "#journey", label: "Journey" },
     { href: "#insights", label: "Insights" },
-    { href: "#connect", label: "Connect" },
   ];
 
   useEffect(() => {
@@ -882,9 +901,9 @@ function Journey() {
             <span className="gradient-text">One Transformation.</span>
           </h2>
           <p className="mt-4 text-[var(--muted-foreground)] max-w-xl leading-relaxed">
-            Each module placed me inside a different professional role ;
-            building empathy, capability, and confidence from the inside out.
-            Click any card to read my personal reflections.
+            Each module placed me inside a different professional role.
+            Building resilience, growth, and confidence from the inside out.
+            Click any card to read my personal reflections and activities.
           </p>
         </div>
 
@@ -995,9 +1014,7 @@ function Connect() {
             something together?
           </h2>
           <p className="text-slate-400 leading-relaxed">
-            I'm a final-year UiTM student with a sharpened professional edge ;
-            curious, driven, and eager to contribute to meaningful work. Let's
-            start a conversation.
+            Let's stay in touch. Reach me out here via:
           </p>
         </div>
 
