@@ -34,9 +34,9 @@ const modules: Module[] = [
     description:
       "An introduction to the K-Youth Nurture programme, meeting fellow UiTM cohort members, and aligning on goals and expectations across the four-week journey.",
     takeaways: [
-      "Understood programme structure and Khazanah's investment thesis",
-      "Built rapport with peers across different faculties",
-      "Set personal learning goals and accountability frameworks",
+      "Motivational content to help push ourselves to take the first step",
+      "Built trust and connection with the trainer and class members",
+      "Aligning on objectives and expectation for the program",
     ],
     deepContent:
       "The orientation session grounded us in Khazanah Nasional's mission as Malaysia's strategic investment arm and how the K-Youth Nurture programme serves as a talent pipeline for future leaders. Facilitated by Aisling, the session combined icebreakers, group discussions, and a deep-dive into what 'value creation' means at the institutional level. I left with a clearer sense of purpose — not just learning skills, but developing the mindset of someone who creates impact at scale.",
@@ -64,7 +64,7 @@ const modules: Module[] = [
     subtitle: "Executive Role",
     icon: "🎯",
     color: "from-[#05513D] to-[#037a5c]",
-    tag: "Week 2",
+    tag: "Week 1",
     description:
       "Stepped into the shoes of a C-suite executive, navigating strategic decisions, stakeholder management, and boardroom-level communication under realistic business scenarios.",
     takeaways: [
@@ -98,7 +98,7 @@ const modules: Module[] = [
     subtitle: "Relationship Manager Role",
     icon: "🤝",
     color: "from-[#1A191B] to-[#3a3839]",
-    tag: "Week 3",
+    tag: "Week 2",
     description:
       "Explored client-facing dynamics by managing complex stakeholder relationships, navigating expectations, and delivering value-driven solutions in a high-trust environment.",
     takeaways: [
@@ -132,7 +132,7 @@ const modules: Module[] = [
     subtitle: "Data Analyst Role",
     icon: "📊",
     color: "from-[#8FFE09] to-[#6bcc00]",
-    tag: "Week 4",
+    tag: "Week 2",
     description:
       "Applied structured analytical thinking to real-world datasets, translating raw information into actionable insights that drive investment and operational decisions.",
     takeaways: [
@@ -166,9 +166,9 @@ const modules: Module[] = [
     subtitle: "Case Study from FYP",
     icon: "🏆",
     color: "from-[#05513D] to-[#8FFE09]",
-    tag: "Week 5",
+    tag: "Week 3-4",
     description:
-      "Synthesised all programme learnings into a capstone case study drawn from my Final Year Project, presenting original research to a panel in a professional pitch format.",
+      "Prepared a case study report on previous Final Year Project by implementing methods and techniques gain throughout the K-Youth program. A presentation session also test the effective communication skills gained.",
     takeaways: [
       "Connected academic research to real-world industry applications",
       "Distilled complex findings into a compelling, board-ready narrative",
@@ -460,7 +460,7 @@ function ProgressBar() {
   return (
     <div
       id="progress-bar"
-      style={{ width: `${width}%` }}
+      style={{ width: `${width}%`, height: '10px' }}
       aria-hidden="true"
     />
   );
@@ -593,10 +593,10 @@ function Hero() {
             className="fade-up fade-up-2 text-5xl md:text-6xl lg:text-7xl font-black leading-[1.05] tracking-tight text-[var(--foreground)] mb-6"
   
           >
-            From Campus
+            Nurturing Talent,
             <br />
-            to{" "}
-            <span className="gradient-text">Corporate.</span>
+            Powering{" "}
+            <span className="gradient-text">Future.</span>
           </h1>
 
           <p className="fade-up fade-up-3 text-lg text-[var(--muted-foreground)] leading-relaxed max-w-md mb-8">
@@ -700,13 +700,13 @@ function Overview() {
       icon: "📅",
       label: "Programme Dates",
       value: "10 Aug – 5 Sep 2026",
-      desc: "Four weeks, fully online",
+      desc: "Two weeks of class sessions + 3 days of Capstone",
     },
     {
       icon: "💻",
       label: "Delivery Mode",
       value: "Online via Zoom",
-      desc: "Live, interactive sessions",
+      desc: "Live, interactive sessions with trainer and other participants",
     },
     {
       icon: "🏆",
@@ -1000,7 +1000,7 @@ function Connect() {
 
         <div className="grid sm:grid-cols-2 gap-5 max-w-lg mx-auto">
           <a
-            href="https://www.linkedin.com/in/"
+            href="https://www.linkedin.com/in/izzat-mahfuz-idris/"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-center gap-4 p-6 rounded-2xl bg-white/5 border border-white/10 hover:bg-white/10 hover:border-white/20 transition-all duration-200"
@@ -1034,7 +1034,7 @@ function Connect() {
           </a>
 
           <a
-            href="mailto:your.email@student.uitm.edu.my"
+            href="mailto:mahfuzizzat0@gmail.com"
             className="group flex items-center gap-4 p-6 rounded-2xl bg-white/5 border border-white/10 hover:bg-white/10 hover:border-white/20 transition-all duration-200"
           >
             <div className="w-12 h-12 rounded-xl bg-[#05513D] flex items-center justify-center shrink-0">
@@ -1075,12 +1075,10 @@ function Connect() {
         {/* Footer */}
         <div className="mt-20 pt-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-slate-500">
           <p>
-            K-Youth Nurture 2026 · Cohort 1 · UiTM Student Portfolio
+            K-Youth Nurture 2026 · C1C · Izzat Mahfuz
           </p>
           <p>
-            Organised by{" "}
-            <span className="text-slate-400">Khazanah Nasional</span> · Built
-            with care
+            <span className="text-slate-400">2026 · alph4nov</span>
           </p>
         </div>
       </div>
