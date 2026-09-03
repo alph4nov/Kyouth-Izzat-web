@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your K-Youth Nurture 2026 experience with a professional portfolio website featuring interactive learning modules, personal insights, and easy connectivity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
